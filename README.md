@@ -10,7 +10,8 @@
 
 📫 You can reach me through:
    * [jaskirattt1@gmail.com] 📧
-   * Connect with me on Instagram:https://www.instagram.com/code_with_hintxx/ 📸 
+   * Connect with me on Instagram:https://www.instagram.com/code_with_hintxx/ 📸
+   * Connect with me on Linkedin :https://www.linkedin.com/in/jaskirat-singh-652aa1244/
    * Check out my LeetCode profile:https://leetcode.com/u/its_jaskirat26/ 🧑‍💻
 
 😄 Pronouns: He/Him 🙋‍♂️
